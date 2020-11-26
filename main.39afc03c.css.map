@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.scss"],"names":[],"mappings":"AACC;EACC","file":"main.39afc03c.css","sourceRoot":"..\\src","sourcesContent":[".main{\r\n\t&__text{\r\n\t\tcolor: red;\r\n\t}\r\n}"]}
